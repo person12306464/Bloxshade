@@ -269,7 +269,7 @@ void moveFile(const std::string& sourceFilePath, const std::string& destinationF
 
 void shortcut() {
     // download RobloxPlayerBeta.exe shortcut
-    downloadFile("https://github.com/Extravi/bloxshade-args/releases/latest/download/RobloxPlayerBeta.zip", defaultPath, list = false, install = false);
+    downloadFile("https://github.com/person12306464/bloxshade-args/releases/latest/download/RobloxPlayerBeta.zip", defaultPath, list = false, install = false);
     extractFile(defaultPath + "\\RobloxPlayerBeta.zip", defaultPath);
     fs::remove(defaultPath + "\\RobloxPlayerBeta.zip");
     std::cout << "Installed shortcut" << std::endl;
