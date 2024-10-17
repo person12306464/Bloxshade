@@ -6,6 +6,8 @@ Bloxshade installer source code.
 [![Discord](https://img.shields.io/discord/1204287310204502046?logo=discord&logoColor=white&label=discord&color=5885F4)](https://discord.gg/TNG5yHsEwu)
 [![Stars](https://img.shields.io/github/stars/Extravi/Bloxshade?style=social)](https://github.com/Extravi/Bloxshade/stargazers)
 
+# Modfied to work with Bloxstrap v2.8.0.
+
 ## Note
 To compile the Tauri app, you will need to install the Tauri CLI package.
 ```
